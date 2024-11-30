@@ -32,7 +32,7 @@
     <!-- Other stats -->
     <div align="center">
         <!-- Profile details -->
-        <a href="https://github.com/ankddev"><img title="My GitHub profile details" alt="Profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryo-ma&theme=dracula" /></a>
+        <a href="https://github.com/ankddev"><img title="My GitHub profile details" alt="Profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankddev&theme=dracula" /></a>
         <!-- Language stats -->
         <a href="https://github.com/ankddev?tab=repositories"><img title="My top languages" alt="Top languages" width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankddev&theme=dracula" /></a>
         <a href="https://github.com/ankddev?tab=repositories"><img title="My top languages" alt="Top languages" width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankddev&theme=dracula" /></a>
