@@ -12,6 +12,8 @@
     <a href="https://www.codewars.com/users/ANKDDEV"><img alt="Codewars profile" title="My Codewars profile" height="35" width="35" src="https://cdn.simpleicons.org/codewars/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://crates.io/users/ankddev"><img alt="crates.io profile" title="My crates.io profile" height="35" width="35" src="https://cdn.simpleicons.org/rust/ff79c6?viewbox=auto" /></a>
+    &nbsp;
+    <a href="https://npmjs.com/~ankddev"><img alt="npm profile" title="My npm profile" height="35" width="35" src="https://cdn.simpleicons.org/npm/ff79c6?viewbox=auto" /></a>
 </div>
 &nbsp;
 <!-- Badges -->
