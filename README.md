@@ -10,6 +10,8 @@
     <a href="https://github.com/ankddev/"><img alt="GitHub profile" title="My GitHub profile" height="35" width="35" src="https://cdn.simpleicons.org/github/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://www.codewars.com/users/ANKDDEV"><img alt="Codewars profile" title="My Codewars profile" height="35" width="35" src="https://cdn.simpleicons.org/codewars/ff79c6?viewbox=auto" /></a>
+    &nbsp;
+    <a href="https://crates.io/users/ankddev"><img alt="crates.io profile" title="My crates.io profile" height="35" width="35" src="https://cdn.simpleicons.org/rust/ff79c6?viewbox=auto" /></a>
 </div>
 &nbsp;
 <!-- Badges -->
