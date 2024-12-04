@@ -51,20 +51,10 @@
     <h5>📚 My skills and some used software:</h5>
     <a href="https://github.com/ankddev"><img title="My skills" alt="My skills" width="100%" src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,md,svg,html,css,less,python,bash,powershell,nodejs,npm,yarn,vscode,pycharm,idea,visualstudio,androidstudio,unity,unreal,blender,ps,notion,discord,vercel,replit,stackoverflow,git,github,githubactions,discordjs,electron,tauri,tailwind,react,svelte,wasm,webpack,vite,express,linux,ubuntu,windows" /></a>
 </div>
-<!-- My recent actions -->
-<div>
-    <details>
-        <summary>Recent activity</summary>
-        <!--RECENT_ACTIVITY:start-->
-    </details>
-</div>
-
 ***
 
 <!-- Footer -->
 <div>
-    <!-- Last updated -->
-    <h6 align="center"><!--RECENT_ACTIVITY:last_update--></h6>
     <!-- Used colorscheme -->
     <h6 align="center"><a href="https://draculatheme.com">🧛🏻‍♂️Dracula theme</a> color palette was used</h6>
 </div>
