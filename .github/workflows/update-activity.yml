@@ -1,4 +1,6 @@
 name: Update README
+permissions:
+  checks: write
 
 on:
   schedule:
