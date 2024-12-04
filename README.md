@@ -51,6 +51,7 @@
     <h5>📚 My skills and some used software:</h5>
     <a href="https://github.com/ankddev"><img title="My skills" alt="My skills" width="100%" src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,md,svg,html,css,less,python,bash,powershell,nodejs,npm,yarn,vscode,pycharm,idea,visualstudio,androidstudio,unity,unreal,blender,ps,notion,discord,vercel,replit,stackoverflow,git,github,githubactions,discordjs,electron,tauri,tailwind,react,svelte,wasm,webpack,vite,express,linux,ubuntu,windows" /></a>
 </div>
+
 ***
 
 <!-- Footer -->
