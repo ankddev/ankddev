@@ -44,12 +44,6 @@
         <a href="https://github.com/ankddev"><img title="My GitHub profile stats" alt="Profile summary" width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankddev&theme=dracula" /></a>
         <!-- Activity graph -->
         <a href="https://github.com/ankddev"><img title="My GitHub contributions graph" alt="Activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankddev&theme=dracula&bg_color=282a36&hide_border=true&radius=6&area=true&height=300" /></a>
-        <!-- Snake for contribution graph -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" width="100%" srcset="https://raw.githubusercontent.com/ankddev/ankddev/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" width="100%" srcset="https://raw.githubusercontent.com/ankddev/ankddev/output/github-contribution-grid-snake.svg">
-          <img alt="GitHub contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/ankddev/ankddev/output/github-contribution-grid-snake.svg">
-        </picture>
     </div>
 </div>
 <!-- My skills section -->
