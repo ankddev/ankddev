@@ -27,7 +27,7 @@
     <!-- GitHub Streak -->
     <a href="https://github.com/ankddev"><img height="30px" title="Current streak" alt="My current GitHub streak" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fire&logoColor=white&labelColor=282a36&color=6272a4&style=for-the-badge&label=streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dankddev%26type%3Djson"/></a>
     <!-- Total contributions -->
-    <a href="https://github.com/ankddev"><img height="30px" title="Total contributions" alt="Total contributions on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=white&labelColor=282a36&style=for-the-badge&color=f1fa8c&label=contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dankddev%26type%3Djson"/></a>
+    <a href="https://github.com/ankddev"><img height="30px" title="Total contributions" alt="Total contributions on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&style=for-the-badge&logoColor=fff&color=blue&label=Total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dankddev%26type%3Djson"></a>
 </div>
 <!-- Stats -->
 <div>
