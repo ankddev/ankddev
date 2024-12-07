@@ -23,7 +23,7 @@
     <!-- Stars -->
     <a href="https://github.com/ankddev?tab=repositories&q=&type=&language=&sort=stargazers"><img height="30px" alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/ankddev?color=50fa7b&style=for-the-badge&labelColor=282a36&logo=star"/></a>
     <!-- Followers -->
-    <a href="https://github.com/ankddev?tab=followers"><img height="30px" alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ankddev?color=ffb86c&labelColor=282a36&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <a href="https://github.com/ankddev?tab=followers"><img height="30px" alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ankddev?logo=person-add&color=ffb86c&labelColor=282a36&style=for-the-badge&label=Followers&logoColor=white"/></a>
     <!-- GitHub Streak -->
     <a href="https://github.com/ankddev"><img height="30px" title="Current streak" alt="My current GitHub streak" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&label=GitHub%20streak&style=for-the-badge&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dankddev%26type%3Djson&logoColor=white&labelColor=282a36&color=6272a4"/></a>
     <!-- Total contributions -->
