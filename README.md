@@ -20,12 +20,12 @@
 <div align="center">
     <!-- Codewars -->
     <a href="https://codewars.com/users/ANKDDEV"><img title="My Codewars stats" alt="Codewars stats" height="30px" src="https://www.codewars.com/users/ANKDDEV/badges/micro" /></a>
+    <!-- Stars -->
+    <a href="https://github.com/ankddev?tab=repositories&sort=stargazers">
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ankddev?labelColor=282a36&color=50fa7b&style=for-the-badge&logo=star"/></a>
     <!-- Followers -->
-    <a href="https://github.com/ankddev?tab=followers"><img height="30px" alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ankddev?logo=person-add&color=ffb86c&labelColor=282a36&style=for-the-badge&label=Followers&logoColor=white"/></a>
-    <!-- GitHub Streak -->
-    <a href="https://github.com/ankddev"><img height="30px" title="Current streak" alt="My current GitHub streak" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&label=GitHub%20streak&style=for-the-badge&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dankddev%26type%3Djson&logoColor=white&labelColor=282a36&color=50fa7b"/></a>
-    <!-- Total contributions -->
-    <a href="https://github.com/ankddev"><img height="30px" title="Total contributions" alt="Total contributions on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=white&labelColor=282a36&color=6272a4&style=for-the-badge&label=Total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dankddev%26type%3Djson"></a>
+    <a href="https://github.com/ankddev?tab=followers">
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ankddev?labelColor=282a36&color=6272a4&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <!-- Stats -->
 <div>
