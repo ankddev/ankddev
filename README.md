@@ -22,10 +22,10 @@
     <a href="https://codewars.com/users/ANKDDEV"><img title="My Codewars stats" alt="Codewars stats" height="30px" src="https://www.codewars.com/users/ANKDDEV/badges/micro" /></a>
     <!-- Stars -->
     <a href="https://github.com/ankddev?tab=repositories&sort=stargazers">
-    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ankddev?labelColor=282a36&color=50fa7b&style=for-the-badge&logo=star"/></a>
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ankddev?labelColor=282a36&color=50fa7b&host=staging.shields.io&style=for-the-badge&logo=star"/></a>
     <!-- Followers -->
     <a href="https://github.com/ankddev?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ankddev?labelColor=282a36&color=6272a4&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ankddev?labelColor=282a36&host=staging.shields.io&color=6272a4&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <!-- Stats -->
 <div>
