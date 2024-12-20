@@ -41,6 +41,36 @@
     <h5>📚 My skills and some used software:</h5>
     <a href="https://github.com/ankddev"><img title="My skills" alt="My skills" width="100%" src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,md,svg,html,css,less,python,bash,powershell,nodejs,npm,yarn,vscode,pycharm,idea,visualstudio,androidstudio,unity,unreal,blender,ps,notion,discord,vercel,replit,stackoverflow,git,github,githubactions,discordjs,electron,tauri,tailwind,react,svelte,wasm,webpack,vite,express,linux,ubuntu,windows" /></a>
 </div>
+<!-- Top projects sections -->
+<!-- Opensource -->
+<details open>
+    <summary><h1>⚡ Top projects, I've contributed to</h1></summary>
+    <div align="center">
+        <a href="https://github.com/desktop/desktop/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=desktop&repo=desktop&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/zed-industries/zed/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zed-industries&repo=zed&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/cli/cli/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cli&repo=cli&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/o2sh/onefetch/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/Flowseal/zapret-discord-youtube/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Flowseal&repo=zapret-discord-youtube&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula&description_lines_count=1&hide_border=true" />
+    </div>
+    <br/>
+    <!-- Button-like links to my all my publics contributions on GitHub -->
+    <a href="https://github.com/issues?q=author%3Aivanya-reset"><img alt="All Contributions" title="All Contributions" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Contributions-282a36?style=for-the-badge&logoColor=f8f8f2&logo=code"/></a>
+    <a href="https://github.com/issues?q=is%3Apr+author%3Aivanya-reset"><img alt="All PRs" title="All PRs" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20PRs-282a36?style=for-the-badge&logoColor=f8f8f2&logo=commit"/></a>
+    <a href="https://github.com/issues?q=is%3Aissue+author%3Aivanya-reset"><img alt="All Issues" title="All Issues" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Issues-282a36?style=for-the-badge&logoColor=f8f8f2&logo=issue"/></a>
+</details>
+<!-- My own -->
+<details open>
+    <summary><h1>📖 My top open source projects</h1></summary>
+    <div align="center">
+        <a href="https://github.com/ankddev/envfetch/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=envfetch&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/ankddev/zapret-discord-youtube/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=zapret-discord-youtube&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/ankddev/terminal-go/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=terminal-go&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+    </div>
+    <br/>
+    <!-- Button-like link to all my public repositories -->
+    <a href="https://github.com/ivanya-reset?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-282a36?style=for-the-badge&logoColor=f8f8f2&logo=repo"/></a>
+</details>
 
 ***
 
