@@ -9,24 +9,14 @@
 <div align="center">
     <a href="https://github.com/ankddev/"><img alt="GitHub profile" title="My GitHub profile" height="35" width="35" src="https://cdn.simpleicons.org/github/ff79c6?viewbox=auto" /></a>
     &nbsp;
-    <a href="https://www.codewars.com/users/ANKDDEV"><img alt="Codewars profile" title="My Codewars profile" height="35" width="35" src="https://cdn.simpleicons.org/codewars/ff79c6?viewbox=auto" /></a>
-    &nbsp;
     <a href="https://crates.io/users/ankddev"><img alt="crates.io profile" title="My crates.io profile" height="35" width="35" src="https://cdn.simpleicons.org/rust/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://npmjs.com/~ankddev"><img alt="npm profile" title="My npm profile" height="35" width="35" src="https://cdn.simpleicons.org/npm/ff79c6?viewbox=auto" /></a>
+    &nbsp;
+    <a href="https://www.codewars.com/users/ANKDDEV"><img alt="Codewars profile" title="My Codewars profile" height="35" width="35" src="https://cdn.simpleicons.org/codewars/ff79c6?viewbox=auto" /></a>
+    <a href="https://codewars.com/users/ANKDDEV"><img title="My Codewars stats" alt="Codewars stats" height="35px" src="https://www.codewars.com/users/ANKDDEV/badges/micro" /></a>
 </div>
 &nbsp;
-<!-- Badges -->
-<div align="center">
-    <!-- Codewars -->
-    <a href="https://codewars.com/users/ANKDDEV"><img title="My Codewars stats" alt="Codewars stats" height="30px" src="https://www.codewars.com/users/ANKDDEV/badges/micro" /></a>
-    <!-- Stars -->
-    <a href="https://github.com/ankddev?tab=repositories&sort=stargazers">
-    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ankddev?labelColor=282a36&color=50fa7b&host=staging.shields.io&style=for-the-badge&logo=star"/></a>
-    <!-- Followers -->
-    <a href="https://github.com/ankddev?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ankddev?labelColor=282a36&host=staging.shields.io&color=6272a4&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
 <!-- Stats -->
 <div>
     <!-- Trophy -->
