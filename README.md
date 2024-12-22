@@ -79,3 +79,5 @@
     <!-- Used colorscheme -->
     <h6 align="center"><a href="https://draculatheme.com">🧛🏻‍♂️Dracula theme</a> color palette was used</h6>
 </div>
+
+![](https://hit.yhype.me/github/profile?account_id=190183925)
