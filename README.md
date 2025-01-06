@@ -13,6 +13,8 @@
     &nbsp;
     <a href="https://npmjs.com/~ankddev"><img alt="npm profile" title="My npm profile" height="35" width="35" src="https://cdn.simpleicons.org/npm/ff79c6?viewbox=auto" /></a>
     &nbsp;
+    <a href="https://t.me/rust_code_tips"><img alt="Rust::Tips channel" title="Rust::Tips Telegram channel" height="35" width="35" src="https://cdn.simpleicons.org/telegram/ff79c6?viewbox=auto" /></a>
+    &nbsp;
     <a href="https://www.codewars.com/users/ANKDDEV"><img alt="Codewars profile" title="My Codewars profile" height="35" width="35" src="https://cdn.simpleicons.org/codewars/ff79c6?viewbox=auto" /></a>
     <a href="https://codewars.com/users/ANKDDEV"><img title="My Codewars stats" alt="Codewars stats" height="35px" src="https://www.codewars.com/users/ANKDDEV/badges/micro" /></a>
 </div>
