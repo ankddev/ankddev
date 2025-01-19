@@ -46,7 +46,7 @@
 <!-- Top projects sections -->
 <!-- Opensource -->
 <details open>
-    <summary><h1>⚡ Top projects, I've contributed to</h1></summary>
+    <summary><h3>⚡ Top projects, I've contributed to</h3></summary>
     <div align="center">
         <a href="https://github.com/desktop/desktop/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=desktop&repo=desktop&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/zed-industries/zed/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zed-industries&repo=zed&theme=dracula&description_lines_count=1&hide_border=true" /></a>
@@ -63,7 +63,7 @@
 </details>
 <!-- My own -->
 <details open>
-    <summary><h1>📖 My top open source projects</h1></summary>
+    <summary><h3>📖 My top open source projects</h3></summary>
     <div align="center">
         <a href="https://github.com/ankddev/envfetch/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=envfetch&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/zapret-discord-youtube/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=zapret-discord-youtube&theme=dracula&description_lines_count=1&hide_border=true" /></a>
