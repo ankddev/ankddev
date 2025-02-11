@@ -59,9 +59,9 @@
     </div>
     <br/>
     <!-- Button-like links to my all my publics contributions on GitHub -->
-    <a href="https://github.com/issues?q=author%3Aivanya-reset"><img alt="All Contributions" title="All Contributions" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Contributions-282a36?style=for-the-badge&logoColor=f8f8f2&logo=code"/></a>
-    <a href="https://github.com/issues?q=is%3Apr+author%3Aivanya-reset"><img alt="All PRs" title="All PRs" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20PRs-282a36?style=for-the-badge&logoColor=f8f8f2&logo=commit"/></a>
-    <a href="https://github.com/issues?q=is%3Aissue+author%3Aivanya-reset"><img alt="All Issues" title="All Issues" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Issues-282a36?style=for-the-badge&logoColor=f8f8f2&logo=issue"/></a>
+    <a href="https://github.com/issues?q=author%3Aiankddev"><img alt="All Contributions" title="All Contributions" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Contributions-282a36?style=for-the-badge&logoColor=f8f8f2&logo=code"/></a>
+    <a href="https://github.com/issues?q=is%3Apr+author%3Aankddev"><img alt="All PRs" title="All PRs" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20PRs-282a36?style=for-the-badge&logoColor=f8f8f2&logo=commit"/></a>
+    <a href="https://github.com/issues?q=is%3Aissue+author%3Aankddev"><img alt="All Issues" title="All Issues" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Issues-282a36?style=for-the-badge&logoColor=f8f8f2&logo=issue"/></a>
 </details>
 <!-- My own -->
 <details open>
@@ -73,7 +73,7 @@
     </div>
     <br/>
     <!-- Button-like link to all my public repositories -->
-    <a href="https://github.com/ivanya-reset?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-282a36?style=for-the-badge&logoColor=f8f8f2&logo=repo"/></a>
+    <a href="https://github.com/ankddev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-282a36?style=for-the-badge&logoColor=f8f8f2&logo=repo"/></a>
 </details>
 
 ***
