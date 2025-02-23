@@ -15,6 +15,8 @@
     &nbsp;
     <a href="https://t.me/rust_code_tips"><img alt="Rust::Tips channel" title="Rust::Tips Telegram channel" height="35" width="35" src="https://cdn.simpleicons.org/telegram/ff79c6?viewbox=auto" /></a>
     &nbsp;
+    <a href="https://t.me/golang_tips"><img alt="Go.Tips channel" title="Go.Tips Telegram channel" height="35" width="35" src="https://cdn.simpleicons.org/telegram/ff79c6?viewbox=auto" /></a>
+    &nbsp;
     <a href="https://exercism.org/profiles/ankddev"><img alt="Exercism profile" title="My Exercism profile" height="35" width="35" src="https://cdn.simpleicons.org/exercism/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://www.codewars.com/users/ANKDDEV"><img alt="Codewars profile" title="My Codewars profile" height="35" width="35" src="https://cdn.simpleicons.org/codewars/ff79c6?viewbox=auto" /></a>
