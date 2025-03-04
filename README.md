@@ -13,6 +13,8 @@
     &nbsp;
     <a href="https://npmjs.com/~ankddev"><img alt="npm profile" title="My npm profile" height="35" width="35" src="https://cdn.simpleicons.org/npm/ff79c6?viewbox=auto" /></a>
     &nbsp;
+    <a href="https://dev.to/ankddev"><img alt="Dev.to profile" title="My Dev.to profile" height="35" width="35" src="https://cdn.simpleicons.org/dev.to/ff79c6?viewbox=auto" /></a>
+    &nbsp;
     <a href="https://t.me/rust_code_tips"><img alt="Rust::Tips channel" title="Rust::Tips Telegram channel" height="35" width="35" src="https://cdn.simpleicons.org/telegram/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://t.me/golang_tips"><img alt="Go.Tips channel" title="Go.Tips Telegram channel" height="35" width="35" src="https://cdn.simpleicons.org/telegram/ff79c6?viewbox=auto" /></a>
