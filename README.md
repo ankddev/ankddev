@@ -77,6 +77,9 @@
         <a href="https://github.com/ankddev/lonesha256/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=lonesha256&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/zed-jetbrains-newui-icons/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=zed-jetbrains-newui-icons&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/gh-fork-sync/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=gh-fork-sync&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/ankddev/vscode-gleam-snippets/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=vscode-gleam-snippets&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/ankddev/awesome-intellij/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=awesome-intellij&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/ankddev/progress-bar-c/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=progress-bar-c&theme=dracula&description_lines_count=1&hide_border=true" /></a>
     </div>
     <br/>
     <!-- Button-like link to all my public repositories -->
