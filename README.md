@@ -1,5 +1,5 @@
 <!-- Main header -->
-<h3 align="center"><b>Hello, I'm ANKDDEV</b></h3>
+<h3 align="center">👋 <b>Hello, I'm ANKDDEV</b> 👋</h3>
 <!-- Bio (readme-typing-svg - https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center">
     <img title="About me" alt="About me" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FFB86C&center=true&vCenter=true&width=435&lines=Developer+from+Russia;Know+JS%2FTS%2C+Python+and+Rust;Now+learning+Go;Love+playing+chess+and+coding;Speak+Russian+and+English;Now+learning+Chinese" alt="Typing SVG" />
