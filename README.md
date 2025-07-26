@@ -1,8 +1,8 @@
 <!-- Main header -->
-<h3 align="center">👋 <b>Hello, I'm ANKDDEV</b> 👋</h3>
+<h3 align="center">👋 <b>Hello, I'm Andrey</b> 👋</h3>
 <!-- Bio (readme-typing-svg - https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center">
-    <img title="About me" alt="About me" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FFB86C&center=true&vCenter=true&width=435&lines=Developer+from+Russia;Know+JS%2FTS%2C+Python+and+Rust;Now+learning+Go;Love+playing+chess+and+coding;Speak+Russian+and+English;Now+learning+Chinese" alt="Typing SVG" />
+    <img title="About me" alt="About me" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FFB86C&center=true&vCenter=true&width=435&lines=14+y.o.+developer+from+Russia;Know+JS%2FTS%2C+Gleam%2C+Go+and+Rust;System%2C+Backend+and+Desktop+dev;Love+playing+chess+and+coding;Speak+Russian+and+English;Now+learning+Chinese" alt="Typing SVG" />
 </div>
 <!-- Social icons (Simple Icons - https://simpleicons.org -->
 <!-- TODO: use repo-level images instead of CDN-hosted images -->
@@ -14,12 +14,6 @@
     <a href="https://crates.io/users/ankddev"><img alt="crates.io profile" title="My crates.io profile" height="35" width="35" src="https://cdn.simpleicons.org/rust/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://npmjs.com/~ankddev"><img alt="npm profile" title="My npm profile" height="35" width="35" src="https://cdn.simpleicons.org/npm/ff79c6?viewbox=auto" /></a>
-    &nbsp;
-    <a href="https://dev.to/ankddev"><img alt="Dev.to profile" title="My Dev.to profile" height="35" width="35" src="https://cdn.simpleicons.org/dev.to/ff79c6?viewbox=auto" /></a>
-    &nbsp;
-    <a href="https://t.me/rust_code_tips"><img alt="Rust::Tips channel" title="Rust::Tips Telegram channel" height="35" width="35" src="https://cdn.simpleicons.org/telegram/ff79c6?viewbox=auto" /></a>
-    &nbsp;
-    <a href="https://t.me/golang_tips"><img alt="Go.Tips channel" title="Go.Tips Telegram channel" height="35" width="35" src="https://cdn.simpleicons.org/telegram/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://exercism.org/profiles/ankddev"><img alt="Exercism profile" title="My Exercism profile" height="35" width="35" src="https://cdn.simpleicons.org/exercism/ff79c6?viewbox=auto" /></a>
     &nbsp;
