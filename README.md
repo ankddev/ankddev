@@ -45,8 +45,8 @@
 </div>
 <!-- Top projects sections -->
 <!-- Opensource -->
-<details open>
-    <summary><h3>⚡ Top projects, I've contributed to</h3></summary>
+<div align="center">
+    <h5>⚡ Top projects, I've contributed to</h5>
     <div align="center">
         <a href="https://github.com/desktop/desktop/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=desktop&repo=desktop&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/zed-industries/zed/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zed-industries&repo=zed&theme=dracula&description_lines_count=1&hide_border=true" /></a>
@@ -60,25 +60,22 @@
     <a href="https://github.com/issues?q=author%3Aankddev"><img alt="All Contributions" title="All Contributions" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Contributions-282a36?style=for-the-badge&logoColor=f8f8f2&logo=code"/></a>
     <a href="https://github.com/issues?q=is%3Apr+author%3Aankddev"><img alt="All PRs" title="All PRs" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20PRs-282a36?style=for-the-badge&logoColor=f8f8f2&logo=commit"/></a>
     <a href="https://github.com/issues?q=is%3Aissue+author%3Aankddev"><img alt="All Issues" title="All Issues" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Issues-282a36?style=for-the-badge&logoColor=f8f8f2&logo=issue"/></a>
-</details>
+</div>
 <!-- My own -->
-<details open>
-    <summary><h3>📖 My top open source projects</h3></summary>
+<div align="center">
+    <h5>📖 My top open source projects</h5>
     <div align="center">
         <a href="https://github.com/ankddev/envfetch/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=envfetch&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/zapret-discord-youtube/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=zapret-discord-youtube&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/ankddev/terminal-go/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=terminal-go&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/lonesha256/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=lonesha256&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/zed-jetbrains-newui-icons/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=zed-jetbrains-newui-icons&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/ankddev/gh-fork-sync/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=gh-fork-sync&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/vscode-gleam-snippets/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=vscode-gleam-snippets&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/ankddev/awesome-intellij/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=awesome-intellij&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/ankddev/progress-bar-c/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankddev&repo=progress-bar-c&theme=dracula&description_lines_count=1&hide_border=true" /></a>
     </div>
     <br/>
     <!-- Button-like link to all my public repositories -->
     <a href="https://github.com/ankddev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-282a36?style=for-the-badge&logoColor=f8f8f2&logo=repo"/></a>
-</details>
+</div>
 
 ***
 
