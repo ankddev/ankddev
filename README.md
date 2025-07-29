@@ -40,8 +40,8 @@
 </div>
 <!-- My skills section -->
 <div align="center">
-    <h5>📚 My skills and some used software:</h5>
-    <a href="https://github.com/ankddev"><img title="My skills" alt="My skills" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,rust,go,gleam,c,md,svg,html,css,less,python,bash,powershell,nodejs,npm,yarn,pnpm,vscode,pycharm,idea,rustrover,goland,fleet,visualstudio,androidstudio,zed,unity,unreal,blender,ps,notion,discord,devto,vercel,replit,stackoverflow,git,github,githubactions,discordjs,electron,tauri,tailwind,react,svelte,wasm,webpack,vite,express,linux,ubuntu,windows,wsl,githubcopilot,chatgpt,deepseek,chrome,edge,firefox" /></a>
+    <a href="https://github.com/ankddev"><img title="I know" alt="I know" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,go,zig,gleam,c,bash,powershell" /></a>
+    <a href="https://github.com/ankddev"><img title="I use" alt="I use" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,arch,ubuntu,android,vscode,zed,rustrover,goland,neovim,vim" /></a>
 </div>
 <!-- Top projects sections -->
 <!-- Opensource -->
