@@ -52,7 +52,7 @@
         <a href="https://github.com/zed-industries/zed/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zed-industries&repo=zed&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/cli/cli/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cli&repo=cli&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/o2sh/onefetch/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/Flowseal/zapret-discord-youtube/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Flowseal&repo=zapret-discord-youtube&theme=dracula&description_lines_count=1&hide_border=true" /></a>
+        <a href="https://github.com/gleam-lang/gleam/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=gleam-lang&repo=gleam&theme=dracula&description_lines_count=1&hide_border=true" /></a>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula&description_lines_count=1&hide_border=true" />
     </div>
     <br/>
