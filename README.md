@@ -41,7 +41,7 @@
 <!-- My skills section -->
 <div align="center">
     <a href="https://github.com/ankddev"><img title="I know" alt="I know" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,go,zig,gleam,c,bash,powershell" /></a>
-    <a href="https://github.com/ankddev"><img title="I use" alt="I use" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,arch,nixos,ubuntu,android,vscode,zed,rustrover,goland,clion,neovim,vim,cmake" /></a>
+    <a href="https://github.com/ankddev"><img title="I use" alt="I use" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,arch,ubuntu,android,vscode,zed,neovim,vim,cmake,tokiors,svelte,vite,unocss,catppuccin" /></a>
 </div>
 <!-- Top projects sections -->
 <!-- Opensource -->
