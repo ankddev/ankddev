@@ -11,6 +11,8 @@
     &nbsp;
     <a href="https://gitlab.com/ankddev/"><img alt="GitLab profile" title="My GitLab profile" height="35" width="35" src="https://cdn.simpleicons.org/gitlab/ff79c6?viewbox=auto" /></a>
     &nbsp;
+    <a href="https://discord.com/users/1026125665709342771"><img alt="Discord profile" title="My Discord profile" height="35" width="35" src="https://cdn.simpleicons.org/discord/ff79c6?viewbox=auto" /></a>
+    &nbsp;
     <a href="https://crates.io/users/ankddev"><img alt="crates.io profile" title="My crates.io profile" height="35" width="35" src="https://cdn.simpleicons.org/rust/ff79c6?viewbox=auto" /></a>
     &nbsp;
     <a href="https://npmjs.com/~ankddev"><img alt="npm profile" title="My npm profile" height="35" width="35" src="https://cdn.simpleicons.org/npm/ff79c6?viewbox=auto" /></a>
