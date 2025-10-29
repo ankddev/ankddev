@@ -2,7 +2,7 @@
 <h3 align="center">👋 <b>Hello, I'm Andrey</b> 👋</h3>
 <!-- Bio (readme-typing-svg - https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center">
-    <img title="About me" alt="About me" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FFB86C&center=true&vCenter=true&width=435&lines=14+y.o.+developer+from+Russia;Know+JS%2FTS%2C+Gleam%2C+Go+and+Rust;System%2C+Backend+and+Desktop+dev;Love+playing+chess+and+coding;Speak+Russian+and+English;Now+learning+Chinese" alt="Typing SVG" />
+    <img title="About me" alt="About me" src="https://readme-typing-svg.demolab.com?font=Maple+Mono&pause=1000&color=FFB86C&center=true&vCenter=true&width=435&lines=14+y.o.+developer+from+Russia;Know+JS%2FTS%2C+Gleam%2C+Go+and+Rust;System%2C+Backend+and+Desktop+dev;Love+playing+chess+and+coding;Speak+Russian+and+English;Now+learning+Chinese" alt="Typing SVG" />
 </div>
 <!-- Social icons (Simple Icons - https://simpleicons.org -->
 <!-- TODO: use repo-level images instead of CDN-hosted images -->
