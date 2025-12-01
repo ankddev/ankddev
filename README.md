@@ -51,24 +51,6 @@
     <a href="https://github.com/ankddev"><img title="I know" alt="I know" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,go,zig,gleam,c,bash,powershell" /></a>
     <a href="https://github.com/ankddev"><img title="I use" alt="I use" width="100%" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,arch,ubuntu,android,vscode,zed,neovim,vim,cmake,tokiors,svelte,vite,unocss,catppuccin" /></a>
 </div>
-<!-- Top projects sections -->
-<!-- Opensource -->
-<div align="center">
-    <h5>⚡ Top projects, I've contributed to</h5>
-    <div align="center">
-        <a href="https://github.com/desktop/desktop/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=desktop&repo=desktop&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/zed-industries/zed/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zed-industries&repo=zed&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/cli/cli/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cli&repo=cli&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/o2sh/onefetch/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/gleam-lang/gleam/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=gleam-lang&repo=gleam&theme=dracula&description_lines_count=1&hide_border=true" /></a>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats/"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=dracula&description_lines_count=1&hide_border=true" />
-    </div>
-    <br/>
-    <!-- Button-like links to my all my publics contributions on GitHub -->
-    <a href="https://github.com/issues?q=author%3Aankddev"><img alt="All Contributions" title="All Contributions" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Contributions-282a36?style=for-the-badge&logoColor=f8f8f2&logo=code"/></a>
-    <a href="https://github.com/issues?q=is%3Apr+author%3Aankddev"><img alt="All PRs" title="All PRs" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20PRs-282a36?style=for-the-badge&logoColor=f8f8f2&logo=commit"/></a>
-    <a href="https://github.com/issues?q=is%3Aissue+author%3Aankddev"><img alt="All Issues" title="All Issues" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Issues-282a36?style=for-the-badge&logoColor=f8f8f2&logo=issue"/></a>
-</div>
 
 ***
 
