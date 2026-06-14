@@ -33,7 +33,7 @@
 <!-- Stats -->
 <div>
     <!-- Trophy -->
-    <a href="https://github.com/ankddev?tab=achievements"><img title="My GitHub Trophy" alt="Trophy" width="100%" src="https://github-profile-trophy-sigma-one.vercel.app/?username=ankddev&theme=dracula&no-frame=true&column=-1" /></a>
+    <a href="https://github.com/ankddev?tab=achievements"><img title="My GitHub Trophy" alt="Trophy" width="100%" src="https://github-profile-trophy-tawny.vercel.app/?username=ankddev&theme=dracula&no-frame=true&column=-1" /></a>
     <!-- Other stats -->
     <div align="center">
         <!-- Profile details -->
