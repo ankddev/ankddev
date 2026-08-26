@@ -46,7 +46,7 @@
         <!-- Summary stats -->
         <a href="https://github.com/ankddev"><img title="My GitHub profile stats" alt="Profile summary" width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankddev&theme=dracula" /></a>
         <!-- Activity graph -->
-        <a href="https://github.com/ankddev"><img title="My GitHub contributions graph" alt="Activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankddev&theme=dracula&bg_color=282a36&hide_border=true&radius=6&area=true&height=300" /></a>
+        <a href="https://github.com/ankddev"><img title="My GitHub contributions graph" alt="Activity graph" width="100%" src="https://gh-readme-activity-graph.vercel.app/graph?username=ankddev&theme=dracula&bg_color=282a36&hide_border=true&radius=6&area=true&height=300" /></a>
     </div>
 </div>
 <!-- My skills section -->
