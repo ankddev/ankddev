@@ -27,7 +27,7 @@
 </div>
 &nbsp;
 <div align="center">
-    There is also <b><a href="https://ankddev.vercel.app">my website</a></b>, where you can find portfolio and blog.
+    There is also <b><a href="https://ankddev.fyi">my website</a></b>, where you can find portfolio and blog.
 </div>
 &nbsp;
 <!-- Stats -->
